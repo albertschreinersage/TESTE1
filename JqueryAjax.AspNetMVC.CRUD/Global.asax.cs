@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace JqueryAjax.AspNetMVC.CRUD
+namespace JqueryAjax.AspNetMVC.CRUD 
 {
     public class MvcApplication : System.Web.HttpApplication
     {
