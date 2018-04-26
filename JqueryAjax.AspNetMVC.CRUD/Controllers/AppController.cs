@@ -35,7 +35,7 @@ namespace JqueryAjax.AspNetMVC.CRUD.Controllers
             return Json(listaPessoas, JsonRequestBehavior.AllowGet);
         }
 
-        public void Deletar(int id)
+        public void Deletar(int id) 
         {
             try
             {
